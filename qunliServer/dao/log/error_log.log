@@ -1,0 +1,953 @@
+{"event":"log","timestamp":1460681537104,"tags":["error"],"data":{"name":"MongoError","message":"Modifiers operate on fields but we found a String instead. For example: {$mod: {<field>: ...}} not {$set: \"{\"name\":\"shichenda123\",\"sex\":\"女\",\"age\":24}\"}","driver":true,"index":0,"code":9,"errmsg":"Modifiers operate on fields but we found a String instead. For example: {$mod: {<field>: ...}} not {$set: \"{\"name\":\"shichenda123\",\"sex\":\"女\",\"age\":24}\"}"},"pid":3868}
+{"event":"log","timestamp":1460681584695,"tags":["error"],"data":{"name":"MongoError","message":"Modifiers operate on fields but we found a String instead. For example: {$mod: {<field>: ...}} not {$set: \"{\"name\":\"shichenda123\",\"sex\":\"女\",\"age\":24}\"}","driver":true,"index":0,"code":9,"errmsg":"Modifiers operate on fields but we found a String instead. For example: {$mod: {<field>: ...}} not {$set: \"{\"name\":\"shichenda123\",\"sex\":\"女\",\"age\":24}\"}"},"pid":3868}
+{"event":"log","timestamp":1460681587261,"tags":["error"],"data":{"name":"MongoError","message":"Modifiers operate on fields but we found a String instead. For example: {$mod: {<field>: ...}} not {$set: \"{\"name\":\"shichenda123\",\"sex\":\"女\",\"age\":24}\"}","driver":true,"index":0,"code":9,"errmsg":"Modifiers operate on fields but we found a String instead. For example: {$mod: {<field>: ...}} not {$set: \"{\"name\":\"shichenda123\",\"sex\":\"女\",\"age\":24}\"}"},"pid":3868}
+{"event":"log","timestamp":1460681587916,"tags":["error"],"data":{"name":"MongoError","message":"Modifiers operate on fields but we found a String instead. For example: {$mod: {<field>: ...}} not {$set: \"{\"name\":\"shichenda123\",\"sex\":\"女\",\"age\":24}\"}","driver":true,"index":0,"code":9,"errmsg":"Modifiers operate on fields but we found a String instead. For example: {$mod: {<field>: ...}} not {$set: \"{\"name\":\"shichenda123\",\"sex\":\"女\",\"age\":24}\"}"},"pid":3868}
+{"event":"log","timestamp":1460791066457,"tags":["error"],"data":{},"pid":3536}
+{"event":"log","timestamp":1460791095236,"tags":["error"],"data":{},"pid":2880}
+{"event":"log","timestamp":1462248088402,"tags":["error"],"data":{},"pid":972}
+{"event":"log","timestamp":1462248092917,"tags":["error"],"data":{},"pid":972}
+{"event":"log","timestamp":1462273860388,"tags":["error"],"data":{},"pid":972}
+{"event":"log","timestamp":1462275594053,"tags":["error"],"data":{},"pid":972}
+{"event":"log","timestamp":1462275597295,"tags":["error"],"data":{},"pid":972}
+{"event":"log","timestamp":1462523731521,"tags":["error"],"data":{},"pid":3756}
+{"event":"log","timestamp":1462524327040,"tags":["error"],"data":{},"pid":6600}
+{"event":"log","timestamp":1462524443045,"tags":["error"],"data":{},"pid":6600}
+{"event":"log","timestamp":1462524484651,"tags":["error"],"data":{},"pid":6600}
+{"event":"log","timestamp":1462525230152,"tags":["error"],"data":{},"pid":6600}
+{"event":"log","timestamp":1462525237888,"tags":["error"],"data":{},"pid":6600}
+{"event":"log","timestamp":1462525250141,"tags":["error"],"data":{},"pid":6600}
+{"event":"log","timestamp":1462531874220,"tags":["error"],"data":{},"pid":6600}
+{"event":"log","timestamp":1462532082230,"tags":["error"],"data":{},"pid":6600}
+{"event":"log","timestamp":1462533124814,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":6600}
+{"event":"log","timestamp":1462533178677,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":6600}
+{"event":"log","timestamp":1462533178678,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":6600}
+{"event":"log","timestamp":1462533258889,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":6600}
+{"event":"log","timestamp":1462533258895,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":6600}
+{"event":"log","timestamp":1462593613702,"tags":["error"],"data":"Decryption error: Maybe bad key","pid":1752}
+{"event":"log","timestamp":1462598259107,"tags":["error"],"data":"Decryption error: Maybe bad key","pid":1752}
+{"event":"log","timestamp":1462598494977,"tags":["error"],"data":"Decryption error: Maybe bad key","pid":1752}
+{"event":"log","timestamp":1462598606193,"tags":["error"],"data":"Decryption error: Maybe bad key","pid":1752}
+{"event":"log","timestamp":1462598722359,"tags":["error"],"data":"Decryption error: Maybe bad key","pid":1752}
+{"event":"log","timestamp":1462603035364,"tags":["error"],"data":{},"pid":1104}
+{"event":"log","timestamp":1462604290022,"tags":["error"],"data":{},"pid":8352}
+{"event":"log","timestamp":1462604344981,"tags":["error"],"data":{},"pid":6452}
+{"event":"log","timestamp":1462783120810,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"connect ECONNREFUSED 127.0.0.1:27017"},"pid":240}
+{"event":"log","timestamp":1462783236870,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"connect ECONNREFUSED 127.0.0.1:27017"},"pid":3312}
+{"event":"log","timestamp":1462783469016,"tags":["error"],"data":{},"pid":2096}
+{"event":"log","timestamp":1462783474392,"tags":["error"],"data":{},"pid":2096}
+{"event":"log","timestamp":1462869709519,"tags":["connection","client","error"],"data":{"code":"ECANCELED","errno":"ECANCELED","syscall":"write"},"pid":32}
+{"event":"log","timestamp":1462871195113,"tags":["error"],"data":{},"pid":32}
+{"event":"log","timestamp":1462876094152,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":32}
+{"event":"log","timestamp":1462878621549,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7760}
+{"event":"log","timestamp":1462878633400,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7760}
+{"event":"log","timestamp":1462878633401,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7760}
+{"event":"log","timestamp":1462878633402,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7760}
+{"event":"log","timestamp":1462878633403,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7760}
+{"event":"log","timestamp":1462878633407,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7760}
+{"event":"log","timestamp":1462878633408,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7760}
+{"event":"log","timestamp":1462878633410,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7760}
+{"event":"log","timestamp":1462878633411,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7760}
+{"event":"log","timestamp":1462878633414,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7760}
+{"event":"log","timestamp":1462878633415,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7760}
+{"event":"log","timestamp":1462928207532,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":5216}
+{"event":"log","timestamp":1462928435530,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":1124}
+{"event":"log","timestamp":1462928737950,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":1124}
+{"event":"log","timestamp":1462930995042,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7656}
+{"event":"log","timestamp":1462930995165,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7656}
+{"event":"log","timestamp":1462934616768,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7656}
+{"event":"log","timestamp":1462934616770,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7656}
+{"event":"log","timestamp":1462944331339,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7656}
+{"event":"log","timestamp":1462959297416,"tags":["error"],"data":{},"pid":7656}
+{"event":"log","timestamp":1462961473028,"tags":["error"],"data":{},"pid":7656}
+{"event":"log","timestamp":1462961703380,"tags":["error"],"data":{},"pid":7656}
+{"event":"log","timestamp":1462961808708,"tags":["error"],"data":{},"pid":7656}
+{"event":"log","timestamp":1462962124854,"tags":["error"],"data":{},"pid":7656}
+{"event":"log","timestamp":1462962154156,"tags":["error"],"data":{},"pid":7656}
+{"event":"log","timestamp":1462962603128,"tags":["error"],"data":{},"pid":7656}
+{"event":"log","timestamp":1463020013971,"tags":["error"],"data":{},"pid":4640}
+{"event":"log","timestamp":1463020626458,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":4640}
+{"event":"log","timestamp":1463023078363,"tags":["error"],"data":{},"pid":4640}
+{"event":"log","timestamp":1463025991220,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":4640}
+{"event":"log","timestamp":1463026775729,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":4640}
+{"event":"log","timestamp":1463026775733,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":4640}
+{"event":"log","timestamp":1463030155995,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"connect ECONNREFUSED 127.0.0.1:27017"},"pid":248}
+{"event":"log","timestamp":1463030194182,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":4244}
+{"event":"log","timestamp":1463030608695,"tags":["error"],"data":{},"pid":4244}
+{"event":"log","timestamp":1463106253533,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"connect ECONNREFUSED 127.0.0.1:27017"},"pid":2144}
+{"event":"log","timestamp":1463110417858,"tags":["error"],"data":{},"pid":3428}
+{"event":"log","timestamp":1463111327477,"tags":["error"],"data":{},"pid":3428}
+{"event":"log","timestamp":1463218658708,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":5500}
+{"event":"log","timestamp":1463225985552,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":5500}
+{"event":"log","timestamp":1463388117132,"tags":["error"],"data":{"name":"MongoError","message":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}","driver":true,"index":0,"code":9,"errmsg":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}"},"pid":1776}
+{"event":"log","timestamp":1463388555726,"tags":["error"],"data":{"name":"MongoError","message":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}","driver":true,"index":0,"code":9,"errmsg":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}"},"pid":2812}
+{"event":"log","timestamp":1463388614470,"tags":["error"],"data":{"name":"MongoError","message":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}","driver":true,"index":0,"code":9,"errmsg":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}"},"pid":5300}
+{"event":"log","timestamp":1463388857850,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_CB_headers_complete"},"pid":3576}
+{"event":"log","timestamp":1463389218260,"tags":["error"],"data":{"name":"MongoError","message":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}","driver":true,"index":0,"code":9,"errmsg":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}"},"pid":5204}
+{"event":"log","timestamp":1463448248729,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"connect ECONNREFUSED 127.0.0.1:27017"},"pid":5588}
+{"event":"log","timestamp":1463542356472,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_CB_headers_complete"},"pid":5724}
+{"event":"log","timestamp":1463560404894,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":3344}
+{"event":"log","timestamp":1463560404896,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":3344}
+{"event":"log","timestamp":1463563585809,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_CB_headers_complete"},"pid":4400}
+{"event":"log","timestamp":1463620131826,"tags":["error"],"data":{"errno":-4058,"code":"ENOENT","syscall":"open","path":"e:\\aimagoo_work\\nodeServer\\upload\\product\\1463620131826original.png"},"pid":1632}
+{"event":"log","timestamp":1463620954813,"tags":["error"],"data":{"errno":-4058,"code":"ENOENT","syscall":"mkdir","path":"e:\\aimagoo_work\\nodeServer\\upload\\img"},"pid":2204}
+{"event":"log","timestamp":1463628140005,"tags":["error"],"data":{"name":"MongoError","message":"key avatar5.png must not contain '.'"},"pid":3004}
+{"event":"log","timestamp":1463628140010,"tags":["error"],"data":{"errno":-4058,"code":"ENOENT","syscall":"open","path":"e:\\upload\\img1463628140002original.png"},"pid":3004}
+{"event":"log","timestamp":1463628243807,"tags":["error"],"data":{"name":"MongoError","message":"key avatar5.png must not contain '.'"},"pid":5756}
+{"event":"log","timestamp":1463628243819,"tags":["error"],"data":{"errno":-4058,"code":"ENOENT","syscall":"open","path":"e:\\upload\\img1463628243779original.png"},"pid":5756}
+{"event":"log","timestamp":1463628280245,"tags":["error"],"data":{"errno":-4058,"code":"ENOENT","syscall":"open","path":"e:\\upload\\img1463628280241original.png"},"pid":6100}
+{"event":"log","timestamp":1463628595697,"tags":["error"],"data":{"name":"MongoError","message":"key avatar04.png must not contain '.'"},"pid":2996}
+{"event":"log","timestamp":1463629314569,"tags":["error"],"data":{"errno":-4058,"code":"ENOENT","syscall":"mkdir","path":"e:\\upload\\img"},"pid":5664}
+{"event":"log","timestamp":1463629356653,"tags":["error"],"data":{"errno":-4058,"code":"ENOENT","syscall":"mkdir","path":"e:\\upload\\img"},"pid":2680}
+{"event":"log","timestamp":1463727350156,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 10. 'sort' field must be of BSON type Object.","waitedMS":0,"ok":0,"errmsg":"Failed to parse: sort: 10. 'sort' field must be of BSON type Object.","code":9},"pid":5708}
+{"event":"log","timestamp":1463803442173,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":2068}
+{"event":"log","timestamp":1463803730891,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":2068}
+{"event":"log","timestamp":1463822772172,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 20. 'sort' field must be of BSON type Object.","waitedMS":0,"ok":0,"errmsg":"Failed to parse: sort: 20. 'sort' field must be of BSON type Object.","code":9},"pid":4064}
+{"event":"log","timestamp":1463822954585,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 20. 'sort' field must be of BSON type Object.","waitedMS":0,"ok":0,"errmsg":"Failed to parse: sort: 20. 'sort' field must be of BSON type Object.","code":9},"pid":4064}
+{"event":"log","timestamp":1463822987071,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 20. 'sort' field must be of BSON type Object.","waitedMS":0,"ok":0,"errmsg":"Failed to parse: sort: 20. 'sort' field must be of BSON type Object.","code":9},"pid":4064}
+{"event":"log","timestamp":1463823025339,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 20. 'sort' field must be of BSON type Object.","waitedMS":0,"ok":0,"errmsg":"Failed to parse: sort: 20. 'sort' field must be of BSON type Object.","code":9},"pid":4064}
+{"event":"log","timestamp":1463823089365,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 20. 'sort' field must be of BSON type Object.","waitedMS":0,"ok":0,"errmsg":"Failed to parse: sort: 20. 'sort' field must be of BSON type Object.","code":9},"pid":4064}
+{"event":"log","timestamp":1463823098854,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 20. 'sort' field must be of BSON type Object.","waitedMS":0,"ok":0,"errmsg":"Failed to parse: sort: 20. 'sort' field must be of BSON type Object.","code":9},"pid":4064}
+{"event":"log","timestamp":1463823102861,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 20. 'sort' field must be of BSON type Object.","waitedMS":0,"ok":0,"errmsg":"Failed to parse: sort: 20. 'sort' field must be of BSON type Object.","code":9},"pid":4064}
+{"event":"log","timestamp":1463825222018,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 20. 'sort' field must be of BSON type Object.","waitedMS":0,"ok":0,"errmsg":"Failed to parse: sort: 20. 'sort' field must be of BSON type Object.","code":9},"pid":5324}
+{"event":"log","timestamp":1463986147159,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":5972}
+{"event":"log","timestamp":1463986153333,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":5972}
+{"event":"log","timestamp":1463987477250,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":5972}
+{"event":"log","timestamp":1464173628460,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":4376}
+{"event":"log","timestamp":1464173628462,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":4376}
+{"event":"log","timestamp":1464173636288,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":4376}
+{"event":"log","timestamp":1464419269442,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":4196}
+{"event":"log","timestamp":1464419269444,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":4196}
+{"event":"log","timestamp":1464924460653,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"connect ECONNREFUSED 127.0.0.1:27017"},"pid":5984}
+{"event":"log","timestamp":1466047401255,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"connect ECONNREFUSED 127.0.0.1:27017"},"pid":4156}
+{"event":"log","timestamp":1466239549108,"tags":["error"],"data":{},"pid":4072}
+{"event":"log","timestamp":1466582046662,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"connect ECONNREFUSED 127.0.0.1:27017"},"pid":6584}
+{"event":"log","timestamp":1466590053661,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"connect ECONNREFUSED 127.0.0.1:27017"},"pid":10284}
+{"event":"log","timestamp":1466666572308,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_CB_headers_complete"},"pid":5168}
+{"event":"log","timestamp":1466666744762,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_CB_headers_complete"},"pid":6500}
+{"event":"log","timestamp":1466748382574,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":3472}
+{"event":"log","timestamp":1466748384892,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":3472}
+{"event":"log","timestamp":1466755113735,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":3472}
+{"event":"log","timestamp":1466758447380,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":2444}
+{"event":"log","timestamp":1466758447381,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":2444}
+{"event":"log","timestamp":1466758447382,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":2444}
+{"event":"log","timestamp":1466758447383,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":2444}
+{"event":"log","timestamp":1466758447383,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":2444}
+{"event":"log","timestamp":1466758447384,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":2444}
+{"event":"log","timestamp":1466769396807,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_CB_headers_complete"},"pid":7956}
+{"event":"log","timestamp":1467194109148,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":3220}
+{"event":"log","timestamp":1467357584957,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":6364}
+{"event":"log","timestamp":1467357654879,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":6364}
+{"event":"log","timestamp":1467428182269,"tags":["error"],"data":{"code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"0.0.0.0","port":3000},"pid":4920}
+{"event":"log","timestamp":1467965890970,"tags":["error"],"data":{"name":"MongoError","message":"The dollar ($) prefixed field '$unset' in '$unset' is not valid for storage.","driver":true,"index":0,"code":52,"errmsg":"The dollar ($) prefixed field '$unset' in '$unset' is not valid for storage."},"pid":6464}
+{"event":"log","timestamp":1467965890974,"tags":["internal","implementation","error"],"data":{"name":"MongoError","message":"The dollar ($) prefixed field '$unset' in '$unset' is not valid for storage.","driver":true,"index":0,"code":52,"errmsg":"The dollar ($) prefixed field '$unset' in '$unset' is not valid for storage.","domain":{"domain":null,"_events":{},"_eventsCount":1,"members":[]},"domainThrown":true},"pid":6464}
+{"event":"log","timestamp":1467965952573,"tags":["error"],"data":{"name":"MongoError","message":"The dollar ($) prefixed field '$unset' in '$unset' is not valid for storage.","driver":true,"index":0,"code":52,"errmsg":"The dollar ($) prefixed field '$unset' in '$unset' is not valid for storage."},"pid":4148}
+{"event":"log","timestamp":1467966278485,"tags":["error"],"data":{"name":"MongoError","message":"The dollar ($) prefixed field '$unset' in '$unset' is not valid for storage.","driver":true,"index":0,"code":52,"errmsg":"The dollar ($) prefixed field '$unset' in '$unset' is not valid for storage."},"pid":8028}
+{"event":"log","timestamp":1467966392561,"tags":["error"],"data":{"name":"MongoError","message":"The dollar ($) prefixed field '$unset' in '$unset' is not valid for storage.","driver":true,"index":0,"code":52,"errmsg":"The dollar ($) prefixed field '$unset' in '$unset' is not valid for storage."},"pid":6456}
+{"event":"log","timestamp":1467966623542,"tags":["error"],"data":{"name":"MongoError","message":"The dollar ($) prefixed field '$unset' in '$unset' is not valid for storage.","driver":true,"index":0,"code":52,"errmsg":"The dollar ($) prefixed field '$unset' in '$unset' is not valid for storage."},"pid":424}
+{"event":"log","timestamp":1468038445895,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":1632}
+{"event":"log","timestamp":1468038445897,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":1632}
+{"event":"log","timestamp":1468295461223,"tags":["error"],"data":{"name":"MongoError","message":"unknown operator: orderNumber","waitedMS":0,"ok":0,"errmsg":"unknown operator: orderNumber","code":2},"pid":4408}
+{"event":"log","timestamp":1468295529125,"tags":["error"],"data":{"name":"MongoError","message":"unknown operator: orderNumber","waitedMS":0,"ok":0,"errmsg":"unknown operator: orderNumber","code":2},"pid":5236}
+{"event":"log","timestamp":1468295562642,"tags":["error"],"data":{"name":"MongoError","message":"unknown operator: orderNumber","waitedMS":0,"ok":0,"errmsg":"unknown operator: orderNumber","code":2},"pid":6256}
+{"event":"log","timestamp":1468469608567,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":5580}
+{"event":"log","timestamp":1468469608568,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":5580}
+{"event":"log","timestamp":1468469608569,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":5580}
+{"event":"log","timestamp":1468837439429,"tags":["error"],"data":{},"pid":4556}
+{"event":"log","timestamp":1468913864312,"tags":["error"],"data":{"name":"MongoError","message":"The dollar ($) prefixed field '$unset' in '$unset' is not valid for storage.","driver":true,"index":0,"code":52,"errmsg":"The dollar ($) prefixed field '$unset' in '$unset' is not valid for storage."},"pid":6416}
+{"event":"log","timestamp":1468913864314,"tags":["internal","implementation","error"],"data":{"name":"MongoError","message":"The dollar ($) prefixed field '$unset' in '$unset' is not valid for storage.","driver":true,"index":0,"code":52,"errmsg":"The dollar ($) prefixed field '$unset' in '$unset' is not valid for storage.","domain":{"domain":null,"_events":{},"_eventsCount":1,"members":[]},"domainThrown":true},"pid":6416}
+{"event":"log","timestamp":1468915366413,"tags":["error"],"data":{"name":"MongoError","message":"The dollar ($) prefixed field '$unset' in '$unset' is not valid for storage.","driver":true,"index":0,"code":52,"errmsg":"The dollar ($) prefixed field '$unset' in '$unset' is not valid for storage."},"pid":6416}
+{"event":"log","timestamp":1471420236465,"tags":["error"],"data":{"code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"0.0.0.0","port":3000},"pid":3948}
+{"event":"log","timestamp":1471420237479,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"connect ECONNREFUSED 127.0.0.1:27017"},"pid":5708}
+{"event":"log","timestamp":1471420237486,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"connect ECONNREFUSED 127.0.0.1:27017"},"pid":3948}
+{"event":"log","timestamp":1471420496501,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"connect ECONNREFUSED 127.0.0.1:27017"},"pid":6252}
+{"event":"log","timestamp":1473168867398,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [localhost:27017] on first connect"},"pid":10404}
+{"event":"log","timestamp":1475497131257,"tags":["connection","client","error"],"data":{"code":"ECANCELED","errno":"ECANCELED","syscall":"write"},"pid":8388}
+{"event":"log","timestamp":1475823466496,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect"},"pid":4732}
+{"event":"log","timestamp":1477217284084,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477217336534,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477217353903,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477217387472,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477217432180,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477217436131,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477217439763,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477217446769,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477217490694,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477217603009,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477217769081,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477217772284,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477217875136,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477217877940,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477217882220,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477217885014,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477217886489,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477217889693,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477217891726,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477217921364,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477217923951,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477217925635,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477217930396,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477217932212,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477217933859,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477217935685,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477218080624,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477218134570,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477218155846,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477218172983,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477218232738,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477218264407,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477218292239,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477218294274,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477218297912,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477218300322,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477218306042,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477218414548,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477218426000,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477218431410,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477218435686,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477218497833,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477218514283,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477218525509,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477218598930,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477218628251,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477218638497,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477218644738,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477219055671,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477219059208,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477219123473,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477219127003,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477219134570,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477219227974,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477219269220,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477219271521,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477219356028,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477219357960,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477219481193,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477220561950,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477220564926,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477220577761,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477220593869,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477220600992,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1477220605638,"tags":["error"],"data":{"name":"WeChatAPIError","code":40001},"pid":2872}
+{"event":"log","timestamp":1484464183012,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"Authentication failed.","ok":0,"code":18,"errmsg":"Authentication failed."},"pid":1636}
+{"event":"log","timestamp":1489292906860,"tags":["error"],"data":{},"pid":7400}
+{"event":"log","timestamp":1491192117928,"tags":["error"],"data":{},"pid":7984}
+{"event":"log","timestamp":1491374790130,"tags":["error"],"data":{},"pid":6328}
+{"event":"log","timestamp":1491379379020,"tags":["error"],"data":{},"pid":9968}
+{"event":"log","timestamp":1492769919197,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":10716}
+{"event":"log","timestamp":1492769919210,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":10716}
+{"event":"log","timestamp":1492769919215,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":10716}
+{"event":"log","timestamp":1492769919218,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":10716}
+{"event":"log","timestamp":1492769919225,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":10716}
+{"event":"log","timestamp":1492769919227,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":10716}
+{"event":"log","timestamp":1492769919230,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":10716}
+{"event":"log","timestamp":1492769919232,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":10716}
+{"event":"log","timestamp":1492769919234,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":10716}
+{"event":"log","timestamp":1492769919237,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":10716}
+{"event":"log","timestamp":1493022747640,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":1048}
+{"event":"log","timestamp":1493022747647,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":1048}
+{"event":"log","timestamp":1493022747649,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":1048}
+{"event":"log","timestamp":1493022747654,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":1048}
+{"event":"log","timestamp":1493022747660,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":1048}
+{"event":"log","timestamp":1493022747666,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":1048}
+{"event":"log","timestamp":1493022747670,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":1048}
+{"event":"log","timestamp":1493022860823,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":1048}
+{"event":"log","timestamp":1493022860832,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":1048}
+{"event":"log","timestamp":1493022969296,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":1048}
+{"event":"log","timestamp":1493023455044,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":1048}
+{"event":"log","timestamp":1493023455046,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":1048}
+{"event":"log","timestamp":1493023614145,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":1048}
+{"event":"log","timestamp":1493023614149,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":1048}
+{"event":"log","timestamp":1493023654592,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":1048}
+{"event":"log","timestamp":1493023654614,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":1048}
+{"event":"log","timestamp":1493023814741,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":1048}
+{"event":"log","timestamp":1493130223728,"tags":["error"],"data":{"name":"MongoError","message":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}","driver":true,"index":0,"code":9,"errmsg":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}"},"pid":8264}
+{"event":"log","timestamp":1493130276571,"tags":["error"],"data":{"name":"MongoError","message":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}","driver":true,"index":0,"code":9,"errmsg":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}"},"pid":10704}
+{"event":"log","timestamp":1493130336397,"tags":["error"],"data":{"name":"MongoError","message":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}","driver":true,"index":0,"code":9,"errmsg":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}"},"pid":10008}
+{"event":"log","timestamp":1493183334785,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":9520}
+{"event":"log","timestamp":1493183512290,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":2788}
+{"event":"log","timestamp":1493193445808,"tags":["error"],"data":{"name":"MongoError","message":"Unsupported projection option: status: { $ne: 1 }","ok":0,"errmsg":"Unsupported projection option: status: { $ne: 1 }","code":2,"codeName":"BadValue"},"pid":10500}
+{"event":"log","timestamp":1493193459050,"tags":["error"],"data":{"name":"MongoError","message":"Unsupported projection option: status: { $ne: 1 }","ok":0,"errmsg":"Unsupported projection option: status: { $ne: 1 }","code":2,"codeName":"BadValue"},"pid":11764}
+{"event":"log","timestamp":1493213336656,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_CB_headers_complete"},"pid":12788}
+{"event":"log","timestamp":1493261347441,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_CB_headers_complete"},"pid":8488}
+{"event":"log","timestamp":1493273196634,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":8356}
+{"event":"log","timestamp":1493375555438,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":10232}
+{"event":"log","timestamp":1493375613955,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":10232}
+{"event":"log","timestamp":1493375613983,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":10232}
+{"event":"log","timestamp":1493720835078,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 1. 'sort' field must be of BSON type object.","ok":0,"errmsg":"Failed to parse: sort: 1. 'sort' field must be of BSON type object.","code":9,"codeName":"FailedToParse"},"pid":10660}
+{"event":"log","timestamp":1493720865660,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 1. 'sort' field must be of BSON type object.","ok":0,"errmsg":"Failed to parse: sort: 1. 'sort' field must be of BSON type object.","code":9,"codeName":"FailedToParse"},"pid":6304}
+{"event":"log","timestamp":1493720902444,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 1. 'sort' field must be of BSON type object.","ok":0,"errmsg":"Failed to parse: sort: 1. 'sort' field must be of BSON type object.","code":9,"codeName":"FailedToParse"},"pid":2604}
+{"event":"log","timestamp":1493721007553,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 1. 'sort' field must be of BSON type object.","ok":0,"errmsg":"Failed to parse: sort: 1. 'sort' field must be of BSON type object.","code":9,"codeName":"FailedToParse"},"pid":9584}
+{"event":"log","timestamp":1493721138903,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 1. 'sort' field must be of BSON type object.","ok":0,"errmsg":"Failed to parse: sort: 1. 'sort' field must be of BSON type object.","code":9,"codeName":"FailedToParse"},"pid":1740}
+{"event":"log","timestamp":1493721379766,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_CB_headers_complete"},"pid":11708}
+{"event":"log","timestamp":1493721486642,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 1. 'sort' field must be of BSON type object.","ok":0,"errmsg":"Failed to parse: sort: 1. 'sort' field must be of BSON type object.","code":9,"codeName":"FailedToParse"},"pid":7372}
+{"event":"log","timestamp":1493721637021,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_CB_headers_complete"},"pid":9760}
+{"event":"log","timestamp":1493721674433,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 1. 'sort' field must be of BSON type object.","ok":0,"errmsg":"Failed to parse: sort: 1. 'sort' field must be of BSON type object.","code":9,"codeName":"FailedToParse"},"pid":7372}
+{"event":"log","timestamp":1493722444336,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 1. 'sort' field must be of BSON type object.","ok":0,"errmsg":"Failed to parse: sort: 1. 'sort' field must be of BSON type object.","code":9,"codeName":"FailedToParse"},"pid":11276}
+{"event":"log","timestamp":1493726050233,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 1. 'sort' field must be of BSON type object.","ok":0,"errmsg":"Failed to parse: sort: 1. 'sort' field must be of BSON type object.","code":9,"codeName":"FailedToParse"},"pid":11940}
+{"event":"log","timestamp":1493809585254,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"Authentication failed.","ok":0,"errmsg":"Authentication failed.","code":18,"codeName":"AuthenticationFailed"},"pid":8524}
+{"event":"log","timestamp":1494327467506,"tags":["error"],"data":{},"pid":5372}
+{"event":"log","timestamp":1494328624709,"tags":["error"],"data":{},"pid":7548}
+{"event":"log","timestamp":1494330286975,"tags":["error"],"data":{},"pid":7244}
+{"event":"log","timestamp":1494412085235,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":12764}
+{"event":"log","timestamp":1494559305391,"tags":["error"],"data":{"name":"MongoError","message":"Unrecognized pipeline stage name: 'userId'","ok":0,"errmsg":"Unrecognized pipeline stage name: 'userId'","code":40324,"codeName":"Location40324"},"pid":6120}
+{"event":"log","timestamp":1494560042522,"tags":["error"],"data":{"name":"MongoError","message":"Unrecognized pipeline stage name: 'userId'","ok":0,"errmsg":"Unrecognized pipeline stage name: 'userId'","code":40324,"codeName":"Location40324"},"pid":9012}
+{"event":"log","timestamp":1494560575827,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: projection: \"number:1\". 'projection' field must be of BSON type object.","ok":0,"errmsg":"Failed to parse: projection: \"number:1\". 'projection' field must be of BSON type object.","code":9,"codeName":"FailedToParse"},"pid":12064}
+{"event":"log","timestamp":1494588089975,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":1996}
+{"event":"log","timestamp":1494987070678,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":9160}
+{"event":"log","timestamp":1494987130706,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":9160}
+{"event":"log","timestamp":1495020641416,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 10. 'sort' field must be of BSON type object.","ok":0,"errmsg":"Failed to parse: sort: 10. 'sort' field must be of BSON type object.","code":9,"codeName":"FailedToParse"},"pid":9852}
+{"event":"log","timestamp":1495020749667,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 10. 'sort' field must be of BSON type object.","ok":0,"errmsg":"Failed to parse: sort: 10. 'sort' field must be of BSON type object.","code":9,"codeName":"FailedToParse"},"pid":10192}
+{"event":"log","timestamp":1495020870494,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 7. 'sort' field must be of BSON type object.","ok":0,"errmsg":"Failed to parse: sort: 7. 'sort' field must be of BSON type object.","code":9,"codeName":"FailedToParse"},"pid":3620}
+{"event":"log","timestamp":1495106849862,"tags":["error"],"data":{},"pid":7276}
+{"event":"log","timestamp":1495417610190,"tags":["error"],"data":{},"pid":7228}
+{"event":"log","timestamp":1495436430023,"tags":["error"],"data":{},"pid":4992}
+{"event":"log","timestamp":1495459149383,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":8696}
+{"event":"log","timestamp":1495459149387,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":8696}
+{"event":"log","timestamp":1495459149391,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":8696}
+{"event":"log","timestamp":1495459149392,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":8696}
+{"event":"log","timestamp":1495501662727,"tags":["error"],"data":{},"pid":8532}
+{"event":"log","timestamp":1495505138305,"tags":["error"],"data":{},"pid":8916}
+{"event":"log","timestamp":1495505182019,"tags":["error"],"data":{},"pid":2668}
+{"event":"log","timestamp":1495535198489,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 5. 'sort' field must be of BSON type object.","ok":0,"errmsg":"Failed to parse: sort: 5. 'sort' field must be of BSON type object.","code":9,"codeName":"FailedToParse"},"pid":4008}
+{"event":"log","timestamp":1495535325462,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 1. 'sort' field must be of BSON type object.","ok":0,"errmsg":"Failed to parse: sort: 1. 'sort' field must be of BSON type object.","code":9,"codeName":"FailedToParse"},"pid":2932}
+{"event":"log","timestamp":1495535371411,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 1. 'sort' field must be of BSON type object.","ok":0,"errmsg":"Failed to parse: sort: 1. 'sort' field must be of BSON type object.","code":9,"codeName":"FailedToParse"},"pid":10136}
+{"event":"log","timestamp":1495535766825,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 5. 'sort' field must be of BSON type object.","ok":0,"errmsg":"Failed to parse: sort: 5. 'sort' field must be of BSON type object.","code":9,"codeName":"FailedToParse"},"pid":1504}
+{"event":"log","timestamp":1495535878306,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 5. 'sort' field must be of BSON type object.","ok":0,"errmsg":"Failed to parse: sort: 5. 'sort' field must be of BSON type object.","code":9,"codeName":"FailedToParse"},"pid":7644}
+{"event":"log","timestamp":1495535998671,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 5. 'sort' field must be of BSON type object.","ok":0,"errmsg":"Failed to parse: sort: 5. 'sort' field must be of BSON type object.","code":9,"codeName":"FailedToParse"},"pid":9848}
+{"event":"log","timestamp":1495536141939,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 5. 'sort' field must be of BSON type object.","ok":0,"errmsg":"Failed to parse: sort: 5. 'sort' field must be of BSON type object.","code":9,"codeName":"FailedToParse"},"pid":6456}
+{"event":"log","timestamp":1495537282283,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 5. 'sort' field must be of BSON type object.","ok":0,"errmsg":"Failed to parse: sort: 5. 'sort' field must be of BSON type object.","code":9,"codeName":"FailedToParse"},"pid":6120}
+{"event":"log","timestamp":1495537473260,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 5. 'sort' field must be of BSON type object.","ok":0,"errmsg":"Failed to parse: sort: 5. 'sort' field must be of BSON type object.","code":9,"codeName":"FailedToParse"},"pid":2124}
+{"event":"log","timestamp":1495538051478,"tags":["error"],"data":{"name":"MongoError","message":"Failed to parse: sort: 5. 'sort' field must be of BSON type object.","ok":0,"errmsg":"Failed to parse: sort: 5. 'sort' field must be of BSON type object.","code":9,"codeName":"FailedToParse"},"pid":8840}
+{"event":"log","timestamp":1495674632324,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7108}
+{"event":"log","timestamp":1495674632327,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7108}
+{"event":"log","timestamp":1495674632328,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7108}
+{"event":"log","timestamp":1495674632328,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7108}
+{"event":"log","timestamp":1495674632329,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7108}
+{"event":"log","timestamp":1495674632330,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7108}
+{"event":"log","timestamp":1495674632333,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7108}
+{"event":"log","timestamp":1495720835406,"tags":["error"],"data":{"name":"MongoError","message":"bad sort specification","ok":0,"errmsg":"bad sort specification","code":2,"codeName":"BadValue"},"pid":1504}
+{"event":"log","timestamp":1495871697427,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_CB_headers_complete"},"pid":9180}
+{"event":"log","timestamp":1496213992315,"tags":["error"],"data":{"code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"0.0.0.0","port":2000},"pid":3120}
+{"event":"log","timestamp":1496286238611,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":5968}
+{"event":"log","timestamp":1496286238670,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":5968}
+{"event":"log","timestamp":1496286238672,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":5968}
+{"event":"log","timestamp":1496822372755,"tags":["error"],"data":{},"pid":7440}
+{"event":"log","timestamp":1496822458124,"tags":["error"],"data":{},"pid":9900}
+{"event":"log","timestamp":1496822833236,"tags":["error"],"data":{},"pid":10716}
+{"event":"log","timestamp":1496822899376,"tags":["error"],"data":{},"pid":10084}
+{"event":"log","timestamp":1496822976131,"tags":["error"],"data":{},"pid":10640}
+{"event":"log","timestamp":1496823353150,"tags":["error"],"data":{},"pid":2396}
+{"event":"log","timestamp":1496823419203,"tags":["error"],"data":{},"pid":5828}
+{"event":"log","timestamp":1496823469434,"tags":["error"],"data":{},"pid":11556}
+{"event":"log","timestamp":1496823563510,"tags":["error"],"data":{},"pid":4220}
+{"event":"log","timestamp":1496823619618,"tags":["error"],"data":{},"pid":5968}
+{"event":"log","timestamp":1496823688381,"tags":["error"],"data":{},"pid":8908}
+{"event":"log","timestamp":1496823692515,"tags":["error"],"data":{},"pid":8908}
+{"event":"log","timestamp":1496823693747,"tags":["error"],"data":{},"pid":8908}
+{"event":"log","timestamp":1496823696250,"tags":["error"],"data":{},"pid":8908}
+{"event":"log","timestamp":1496823696915,"tags":["error"],"data":{},"pid":8908}
+{"event":"log","timestamp":1496823697704,"tags":["error"],"data":{},"pid":8908}
+{"event":"log","timestamp":1496823697859,"tags":["error"],"data":{},"pid":8908}
+{"event":"log","timestamp":1496823698578,"tags":["error"],"data":{},"pid":8908}
+{"event":"log","timestamp":1496823700450,"tags":["error"],"data":{},"pid":8908}
+{"event":"log","timestamp":1496823700915,"tags":["error"],"data":{},"pid":8908}
+{"event":"log","timestamp":1496823703944,"tags":["error"],"data":{},"pid":8908}
+{"event":"log","timestamp":1496823706122,"tags":["error"],"data":{},"pid":8908}
+{"event":"log","timestamp":1496823706377,"tags":["error"],"data":{},"pid":8908}
+{"event":"log","timestamp":1496823707543,"tags":["error"],"data":{},"pid":8908}
+{"event":"log","timestamp":1496823711380,"tags":["error"],"data":{},"pid":8908}
+{"event":"log","timestamp":1496823712048,"tags":["error"],"data":{},"pid":8908}
+{"event":"log","timestamp":1496823715146,"tags":["error"],"data":{},"pid":8908}
+{"event":"log","timestamp":1496823718041,"tags":["error"],"data":{},"pid":8908}
+{"event":"log","timestamp":1496823720757,"tags":["error"],"data":{},"pid":8908}
+{"event":"log","timestamp":1496823721971,"tags":["error"],"data":{},"pid":8908}
+{"event":"log","timestamp":1496823722312,"tags":["error"],"data":{},"pid":8908}
+{"event":"log","timestamp":1498734606500,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":9912}
+{"event":"log","timestamp":1498787589870,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":9092}
+{"event":"log","timestamp":1498788542481,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":6216}
+{"event":"log","timestamp":1498790123423,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":6552}
+{"event":"log","timestamp":1498792612125,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":4744}
+{"event":"log","timestamp":1498806209331,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":500}
+{"event":"log","timestamp":1498808684614,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":5028}
+{"event":"log","timestamp":1498809722238,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":5028}
+{"event":"log","timestamp":1498823391503,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":12552}
+{"event":"log","timestamp":1499063793017,"tags":["connection","client","error"],"data":{"code":"ECANCELED","errno":"ECANCELED","syscall":"write"},"pid":9992}
+{"event":"log","timestamp":1499130525520,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":3988}
+{"event":"log","timestamp":1499226433440,"tags":["connection","client","error"],"data":{"code":"ECANCELED","errno":"ECANCELED","syscall":"write"},"pid":4080}
+{"event":"log","timestamp":1499259393496,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":984}
+{"event":"log","timestamp":1499312255256,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":10064}
+{"event":"log","timestamp":1499313979932,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":10064}
+{"event":"log","timestamp":1499321652693,"tags":["connection","client","error"],"data":{"code":"ECANCELED","errno":"ECANCELED","syscall":"write"},"pid":2824}
+{"event":"log","timestamp":1499321763735,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":2824}
+{"event":"log","timestamp":1499321900156,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":2824}
+{"event":"log","timestamp":1499322727772,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":2604}
+{"event":"log","timestamp":1499487128469,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":2056}
+{"event":"log","timestamp":1499772053500,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":2560}
+{"event":"log","timestamp":1500687649489,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":3996}
+{"event":"log","timestamp":1500687649492,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":3996}
+{"event":"log","timestamp":1500687649494,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":3996}
+{"event":"log","timestamp":1500687649496,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":3996}
+{"event":"log","timestamp":1500687649497,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":3996}
+{"event":"log","timestamp":1500989191732,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":1692}
+{"event":"log","timestamp":1500989191738,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":1692}
+{"event":"log","timestamp":1500989191742,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":1692}
+{"event":"log","timestamp":1500989191748,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":1692}
+{"event":"log","timestamp":1501033688358,"tags":["error"],"data":{},"pid":11792}
+{"event":"log","timestamp":1501033693320,"tags":["error"],"data":{},"pid":11792}
+{"event":"log","timestamp":1502359756180,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":32124}
+{"event":"log","timestamp":1502421448008,"tags":["error"],"data":{"name":"MongoError","message":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}","driver":true,"index":0,"code":9,"errmsg":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}"},"pid":37108}
+{"event":"log","timestamp":1502421448013,"tags":["internal","implementation","error"],"data":{"name":"MongoError","message":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}","driver":true,"index":0,"code":9,"errmsg":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}","domain":{"domain":null,"_events":{},"_eventsCount":1,"members":[]},"domainThrown":true},"pid":37108}
+{"event":"log","timestamp":1502422614477,"tags":["error"],"data":{},"pid":37108}
+{"event":"log","timestamp":1502527012008,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":44868}
+{"event":"log","timestamp":1502674485380,"tags":["error"],"data":{"name":"MongoError","message":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}","driver":true,"index":0,"code":9,"errmsg":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}"},"pid":44796}
+{"event":"log","timestamp":1502768324903,"tags":["error"],"data":{"name":"MongoError","message":"Wrong type for documents[0]. Expected a object, got a array.","ok":0,"errmsg":"Wrong type for documents[0]. Expected a object, got a array.","code":14,"codeName":"TypeMismatch"},"pid":41852}
+{"event":"log","timestamp":1502768324907,"tags":["internal","implementation","error"],"data":{"name":"MongoError","message":"Wrong type for documents[0]. Expected a object, got a array.","ok":0,"errmsg":"Wrong type for documents[0]. Expected a object, got a array.","code":14,"codeName":"TypeMismatch","domain":{"domain":null,"_events":{},"_eventsCount":1,"members":[]},"domainThrown":true},"pid":41852}
+{"event":"log","timestamp":1502768363079,"tags":["error"],"data":{"name":"MongoError","message":"Wrong type for documents[0]. Expected a object, got a array.","ok":0,"errmsg":"Wrong type for documents[0]. Expected a object, got a array.","code":14,"codeName":"TypeMismatch"},"pid":41852}
+{"event":"log","timestamp":1502768363081,"tags":["internal","implementation","error"],"data":{"name":"MongoError","message":"Wrong type for documents[0]. Expected a object, got a array.","ok":0,"errmsg":"Wrong type for documents[0]. Expected a object, got a array.","code":14,"codeName":"TypeMismatch","domain":{"domain":null,"_events":{},"_eventsCount":1,"members":[]},"domainThrown":true},"pid":41852}
+{"event":"log","timestamp":1502768376633,"tags":["error"],"data":{"name":"MongoError","message":"Wrong type for documents[0]. Expected a object, got a array.","ok":0,"errmsg":"Wrong type for documents[0]. Expected a object, got a array.","code":14,"codeName":"TypeMismatch"},"pid":41852}
+{"event":"log","timestamp":1502768441123,"tags":["error"],"data":{"name":"MongoError","message":"Wrong type for documents[0]. Expected a object, got a array.","ok":0,"errmsg":"Wrong type for documents[0]. Expected a object, got a array.","code":14,"codeName":"TypeMismatch"},"pid":28592}
+{"event":"log","timestamp":1502768577737,"tags":["error"],"data":{"name":"MongoError","message":"Wrong type for documents[0]. Expected a object, got a array.","ok":0,"errmsg":"Wrong type for documents[0]. Expected a object, got a array.","code":14,"codeName":"TypeMismatch"},"pid":50252}
+{"event":"log","timestamp":1502768604017,"tags":["error"],"data":{"name":"MongoError","message":"Wrong type for documents[0]. Expected a object, got a array.","ok":0,"errmsg":"Wrong type for documents[0]. Expected a object, got a array.","code":14,"codeName":"TypeMismatch"},"pid":50252}
+{"event":"log","timestamp":1502934395575,"tags":["error"],"data":{"name":"MongoError","message":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}","driver":true,"index":0,"code":9,"errmsg":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}"},"pid":46700}
+{"event":"log","timestamp":1503279390769,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":9940}
+{"event":"log","timestamp":1503369608024,"tags":["error"],"data":{},"pid":14056}
+{"event":"log","timestamp":1503380613016,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":10532}
+{"event":"log","timestamp":1503485495118,"tags":["error"],"data":{"name":"MongoError","message":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}","driver":true,"index":0,"code":9,"errmsg":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}"},"pid":3292}
+{"event":"log","timestamp":1503566029755,"tags":["error"],"data":{"name":"MongoError","message":"Projection cannot have a mix of inclusion and exclusion.","ok":0,"errmsg":"Projection cannot have a mix of inclusion and exclusion.","code":2,"codeName":"BadValue"},"pid":12948}
+{"event":"log","timestamp":1503566269272,"tags":["error"],"data":{"name":"MongoError","message":"Projection cannot have a mix of inclusion and exclusion.","ok":0,"errmsg":"Projection cannot have a mix of inclusion and exclusion.","code":2,"codeName":"BadValue"},"pid":12632}
+{"event":"log","timestamp":1503566351393,"tags":["error"],"data":{"name":"MongoError","message":"Projection cannot have a mix of inclusion and exclusion.","ok":0,"errmsg":"Projection cannot have a mix of inclusion and exclusion.","code":2,"codeName":"BadValue"},"pid":12804}
+{"event":"log","timestamp":1503634140532,"tags":["error"],"data":{"name":"MongoError","message":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}","driver":true,"index":0,"code":9,"errmsg":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}"},"pid":11928}
+{"event":"log","timestamp":1503711272003,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":3472}
+{"event":"log","timestamp":1503738670834,"tags":["error"],"data":{"name":"MongoError","message":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}","driver":true,"index":0,"code":9,"errmsg":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}"},"pid":12244}
+{"event":"log","timestamp":1504061359446,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7624}
+{"event":"log","timestamp":1504061359454,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7624}
+{"event":"log","timestamp":1504150375288,"tags":["error"],"data":{"code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"0.0.0.0","port":3000},"pid":5528}
+{"event":"log","timestamp":1504150383216,"tags":["error"],"data":{"code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"0.0.0.0","port":3000},"pid":7968}
+{"event":"log","timestamp":1504150392275,"tags":["error"],"data":{"code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"0.0.0.0","port":3000},"pid":5920}
+{"event":"log","timestamp":1504150398807,"tags":["error"],"data":{"code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"0.0.0.0","port":3000},"pid":3484}
+{"event":"log","timestamp":1504150404878,"tags":["error"],"data":{"code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"0.0.0.0","port":3000},"pid":2180}
+{"event":"log","timestamp":1504150418149,"tags":["error"],"data":{"code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"0.0.0.0","port":3000},"pid":6796}
+{"event":"log","timestamp":1504172186162,"tags":["error"],"data":{"name":"MongoError","message":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}","driver":true,"index":0,"code":9,"errmsg":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}"},"pid":6208}
+{"event":"log","timestamp":1504262162019,"tags":["error"],"data":{"code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"0.0.0.0","port":3000},"pid":6688}
+{"event":"log","timestamp":1504688450034,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":4456}
+{"event":"log","timestamp":1504711560451,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":4456}
+{"event":"log","timestamp":1504748531846,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":4456}
+{"event":"log","timestamp":1504851395304,"tags":["error"],"data":{"code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"0.0.0.0","port":3000},"pid":5648}
+{"event":"log","timestamp":1504851412153,"tags":["error"],"data":{"code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"0.0.0.0","port":3000},"pid":6720}
+{"event":"log","timestamp":1504851419092,"tags":["error"],"data":{"code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"0.0.0.0","port":3000},"pid":4200}
+{"event":"log","timestamp":1504851459016,"tags":["error"],"data":{"code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"0.0.0.0","port":3000},"pid":6748}
+{"event":"log","timestamp":1504851492544,"tags":["error"],"data":{"code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"0.0.0.0","port":3000},"pid":4796}
+{"event":"log","timestamp":1504851498892,"tags":["error"],"data":{"code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"0.0.0.0","port":3000},"pid":4420}
+{"event":"log","timestamp":1504851505759,"tags":["error"],"data":{"code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"0.0.0.0","port":3000},"pid":3016}
+{"event":"log","timestamp":1504995151496,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":4132}
+{"event":"log","timestamp":1505099358471,"tags":["error"],"data":{},"pid":4132}
+{"event":"log","timestamp":1505122899868,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505122899887,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505122915592,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505122922871,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505122939975,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505122939978,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505122951906,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505122960202,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505122981972,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505122983436,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505122984962,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505122985014,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505122990382,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505122990653,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505122990896,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505122991095,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505122999119,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505123091427,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505125045131,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505125045146,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505125063554,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505125066384,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505125313390,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505125313391,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505125337882,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505125353677,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505125368546,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505125382303,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505125399341,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505125433399,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505125437743,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505125443326,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505125454122,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505125455952,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505125458281,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505125487730,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505125510487,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505125523184,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505125523193,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505125553485,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505125584113,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505125591196,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505125592042,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505125592906,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505125594857,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505125604534,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505125614816,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505125616655,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126170255,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126170316,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126170352,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126170358,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126170428,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126170594,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126170726,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126191249,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126191831,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126192247,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126192397,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126192880,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126193349,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126194630,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126195020,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126195339,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126195653,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126196100,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126196483,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126196828,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126212431,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126212785,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126213046,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126213228,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126213398,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126213563,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126213747,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126215190,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126215946,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126216402,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126216736,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126233154,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126234119,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126234772,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126235733,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126236483,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126236919,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126237214,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126239001,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126239452,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126239954,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126240758,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126241297,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126242172,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126274150,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126275115,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126275186,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126275191,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126424578,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126424651,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126435218,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126440830,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126456472,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126469797,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126478950,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126490928,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126502322,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126525072,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126525835,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126530417,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126541765,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126543105,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126543584,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126543949,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126544123,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126544521,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126551454,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126551905,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126552457,"tags":["error"],"data":{"name":"MongoError","message":"server instance pool was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126554225,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126605694,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126639330,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126656950,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126661901,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505126672370,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505127308213,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505127308217,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505127318817,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505127320769,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4132}
+{"event":"log","timestamp":1505145189985,"tags":["error"],"data":{"name":"MongoError","message":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}","driver":true,"index":0,"code":9,"errmsg":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}"},"pid":8100}
+{"event":"log","timestamp":1505145266171,"tags":["error"],"data":{"name":"MongoError","message":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}","driver":true,"index":0,"code":9,"errmsg":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}"},"pid":7396}
+{"event":"log","timestamp":1505198579240,"tags":["error"],"data":{},"pid":5204}
+{"event":"log","timestamp":1505201695016,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":5012}
+{"event":"log","timestamp":1505201699125,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":3076}
+{"event":"log","timestamp":1505201703250,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":5096}
+{"event":"log","timestamp":1505201707516,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":2324}
+{"event":"log","timestamp":1505201711860,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":7256}
+{"event":"log","timestamp":1505201716000,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":7700}
+{"event":"log","timestamp":1505201720079,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":6496}
+{"event":"log","timestamp":1505201724453,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":8016}
+{"event":"log","timestamp":1505201728688,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":268}
+{"event":"log","timestamp":1505201732969,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":3328}
+{"event":"log","timestamp":1505201737094,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":668}
+{"event":"log","timestamp":1505201741125,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":2800}
+{"event":"log","timestamp":1505201750016,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":6436}
+{"event":"log","timestamp":1505201753750,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":1332}
+{"event":"log","timestamp":1505201757501,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":6160}
+{"event":"log","timestamp":1505201761235,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":5924}
+{"event":"log","timestamp":1505201764875,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":7160}
+{"event":"log","timestamp":1505201768642,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":7272}
+{"event":"log","timestamp":1505201772454,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":812}
+{"event":"log","timestamp":1505201776095,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":7248}
+{"event":"log","timestamp":1505201779798,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":6232}
+{"event":"log","timestamp":1505201783454,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":584}
+{"event":"log","timestamp":1505201787626,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":5768}
+{"event":"log","timestamp":1505201791360,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":4748}
+{"event":"log","timestamp":1505201795219,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":1868}
+{"event":"log","timestamp":1505201798954,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":5012}
+{"event":"log","timestamp":1505201802766,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":2888}
+{"event":"log","timestamp":1505201806501,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":5172}
+{"event":"log","timestamp":1505201810251,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":3456}
+{"event":"log","timestamp":1505201814017,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":3768}
+{"event":"log","timestamp":1505201817781,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":1404}
+{"event":"log","timestamp":1505201821532,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":5920}
+{"event":"log","timestamp":1505201825250,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":5516}
+{"event":"log","timestamp":1505201828907,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":1080}
+{"event":"log","timestamp":1505201832626,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":3428}
+{"event":"log","timestamp":1505201899595,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":5168}
+{"event":"log","timestamp":1505201903219,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":7380}
+{"event":"log","timestamp":1505201906907,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":4388}
+{"event":"log","timestamp":1505201910641,"tags":["hapi-mongodb","error"],"data":{"name":"MongoError","message":"failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"},"pid":6364}
+{"event":"log","timestamp":1505206775730,"tags":["error"],"data":{},"pid":7468}
+{"event":"log","timestamp":1505206792319,"tags":["error"],"data":{},"pid":7468}
+{"event":"log","timestamp":1505206808478,"tags":["error"],"data":{},"pid":7468}
+{"event":"log","timestamp":1505298369095,"tags":["error"],"data":{"code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"0.0.0.0","port":3000},"pid":6792}
+{"event":"log","timestamp":1505298375510,"tags":["error"],"data":{"code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"0.0.0.0","port":3000},"pid":5284}
+{"event":"log","timestamp":1505308999687,"tags":["error"],"data":{"name":"MongoError","message":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}","driver":true,"index":0,"code":9,"errmsg":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}"},"pid":4156}
+{"event":"log","timestamp":1505324255444,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7624}
+{"event":"log","timestamp":1505324263663,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7624}
+{"event":"log","timestamp":1505324264311,"tags":["connection","client","error"],"data":{"bytesParsed":2,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324272511,"tags":["connection","client","error"],"data":{"bytesParsed":1,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324280705,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324288925,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324297124,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324305789,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324314014,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324322205,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324330422,"tags":["connection","client","error"],"data":{"bytesParsed":12,"code":"HPE_INVALID_URL"},"pid":7624}
+{"event":"log","timestamp":1505324338639,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324346836,"tags":["connection","client","error"],"data":{"bytesParsed":10,"code":"HPE_INVALID_CONSTANT"},"pid":7624}
+{"event":"log","timestamp":1505324355033,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324363232,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324371444,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324379669,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324387887,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324396086,"tags":["connection","client","error"],"data":{"bytesParsed":1,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324404297,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324412495,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324420715,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324429306,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324437502,"tags":["connection","client","error"],"data":{"bytesParsed":1,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324445717,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324453939,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324604683,"tags":["connection","client","error"],"data":{"bytesParsed":2,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324606353,"tags":["connection","client","error"],"data":{"bytesParsed":1,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324608021,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324609691,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324611361,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324613530,"tags":["connection","client","error"],"data":{"bytesParsed":10,"code":"HPE_INVALID_CONSTANT"},"pid":7624}
+{"event":"log","timestamp":1505324615203,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324616934,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324618603,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324620273,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324622006,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324623674,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324625342,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324627009,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324629101,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324630770,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324632438,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324634106,"tags":["connection","client","error"],"data":{"bytesParsed":12,"code":"HPE_INVALID_URL"},"pid":7624}
+{"event":"log","timestamp":1505324635776,"tags":["connection","client","error"],"data":{"bytesParsed":1,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324637506,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324639174,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324640843,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324642512,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324644245,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324645976,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324647643,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324649311,"tags":["connection","client","error"],"data":{"bytesParsed":1,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505324650985,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_INVALID_METHOD"},"pid":7624}
+{"event":"log","timestamp":1505335276016,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7624}
+{"event":"log","timestamp":1505402626198,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7624}
+{"event":"log","timestamp":1505449619086,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7624}
+{"event":"log","timestamp":1505461650243,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7624}
+{"event":"log","timestamp":1505461655742,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":7624}
+{"event":"log","timestamp":1506414355807,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":5735}
+{"event":"log","timestamp":1506414400018,"tags":["error"],"data":{},"pid":5735}
+{"event":"log","timestamp":1506581010385,"tags":["error"],"data":{"code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"0.0.0.0","port":3000},"pid":1895}
+{"event":"log","timestamp":1506587681609,"tags":["error"],"data":{},"pid":2695}
+{"event":"log","timestamp":1506649525041,"tags":["error"],"data":{},"pid":723}
+{"event":"log","timestamp":1507521603492,"tags":["error"],"data":{},"pid":1053}
+{"event":"log","timestamp":1507529066910,"tags":["error"],"data":{},"pid":1442}
+{"event":"log","timestamp":1508152522366,"tags":["error"],"data":{},"pid":2573}
+{"event":"log","timestamp":1508466149947,"tags":["error"],"data":{"name":"MongoError","message":"The dollar ($) prefixed field '$inc' in '$inc' is not valid for storage.","driver":true,"index":0,"code":52,"errmsg":"The dollar ($) prefixed field '$inc' in '$inc' is not valid for storage."},"pid":5722}
+{"event":"log","timestamp":1508466149949,"tags":["internal","implementation","error"],"data":{"name":"MongoError","message":"The dollar ($) prefixed field '$inc' in '$inc' is not valid for storage.","driver":true,"index":0,"code":52,"errmsg":"The dollar ($) prefixed field '$inc' in '$inc' is not valid for storage.","domain":{"domain":null,"_events":{},"_eventsCount":1,"members":[]},"domainThrown":true},"pid":5722}
+{"event":"log","timestamp":1508466172468,"tags":["error"],"data":{"name":"MongoError","message":"The dollar ($) prefixed field '$inc' in '$inc' is not valid for storage.","driver":true,"index":0,"code":52,"errmsg":"The dollar ($) prefixed field '$inc' in '$inc' is not valid for storage."},"pid":5722}
+{"event":"log","timestamp":1508466172470,"tags":["internal","implementation","error"],"data":{"name":"MongoError","message":"The dollar ($) prefixed field '$inc' in '$inc' is not valid for storage.","driver":true,"index":0,"code":52,"errmsg":"The dollar ($) prefixed field '$inc' in '$inc' is not valid for storage.","domain":{"domain":null,"_events":{},"_eventsCount":1,"members":[]},"domainThrown":true},"pid":5722}
+{"event":"log","timestamp":1509019154627,"tags":["error"],"data":{},"pid":3788}
+{"event":"log","timestamp":1509019279977,"tags":["error"],"data":{},"pid":3788}
+{"event":"log","timestamp":1509438324277,"tags":["error"],"data":{"name":"MongoError","message":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}","driver":true,"index":0,"code":9,"errmsg":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}"},"pid":3263}
+{"event":"log","timestamp":1510133383375,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1734}
+{"event":"log","timestamp":1510133383428,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1734}
+{"event":"log","timestamp":1510133388600,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_CB_body"},"pid":1734}
+{"event":"log","timestamp":1510133388720,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1734}
+{"event":"log","timestamp":1510133409286,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_CB_body"},"pid":1734}
+{"event":"log","timestamp":1510133409375,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1734}
+{"event":"log","timestamp":1510133455422,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_CB_body"},"pid":1734}
+{"event":"log","timestamp":1510133455512,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1734}
+{"event":"log","timestamp":1510133460419,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_CB_body"},"pid":1734}
+{"event":"log","timestamp":1510133460484,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1734}
+{"event":"log","timestamp":1510133580422,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_CB_body"},"pid":1734}
+{"event":"log","timestamp":1510133604173,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1734}
+{"event":"log","timestamp":1510133604424,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1734}
+{"event":"log","timestamp":1510133611754,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1734}
+{"event":"log","timestamp":1510133612917,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1734}
+{"event":"log","timestamp":1510133623425,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1734}
+{"event":"log","timestamp":1510199408565,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":637}
+{"event":"log","timestamp":1510223401440,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2551}
+{"event":"log","timestamp":1510223401635,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2551}
+{"event":"log","timestamp":1510223401645,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2551}
+{"event":"log","timestamp":1510223411868,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2551}
+{"event":"log","timestamp":1510223488388,"tags":["error"],"data":{"name":"MongoError","message":"connection 3 to 127.0.0.1:27017 closed"},"pid":2581}
+{"event":"log","timestamp":1510223488391,"tags":["internal","implementation","error"],"data":{"name":"MongoError","message":"connection 3 to 127.0.0.1:27017 closed","domain":{"domain":null,"_events":{},"_eventsCount":1,"members":[]},"domainThrown":true},"pid":2581}
+{"event":"log","timestamp":1510223530936,"tags":["error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms"},"pid":2581}
+{"event":"log","timestamp":1510223530938,"tags":["error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms"},"pid":2581}
+{"event":"log","timestamp":1510223530939,"tags":["error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms"},"pid":2581}
+{"event":"log","timestamp":1510223530939,"tags":["error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms"},"pid":2581}
+{"event":"log","timestamp":1510223530939,"tags":["error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms"},"pid":2581}
+{"event":"log","timestamp":1510223530940,"tags":["error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms"},"pid":2581}
+{"event":"log","timestamp":1510223530941,"tags":["error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms"},"pid":2581}
+{"event":"log","timestamp":1510223530942,"tags":["error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms"},"pid":2581}
+{"event":"log","timestamp":1510223530942,"tags":["error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms"},"pid":2581}
+{"event":"log","timestamp":1510223530942,"tags":["internal","implementation","error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms","domain":{"domain":null,"_events":{},"_eventsCount":1,"members":[]},"domainThrown":true},"pid":2581}
+{"event":"log","timestamp":1510223530947,"tags":["internal","implementation","error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms","domain":{"domain":null,"_events":{},"_eventsCount":1,"members":[]},"domainThrown":true},"pid":2581}
+{"event":"log","timestamp":1510223530949,"tags":["internal","implementation","error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms","domain":{"domain":null,"_events":{},"_eventsCount":1,"members":[]},"domainThrown":true},"pid":2581}
+{"event":"log","timestamp":1510223530953,"tags":["internal","implementation","error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms","domain":{"domain":null,"_events":{},"_eventsCount":1,"members":[]},"domainThrown":true},"pid":2581}
+{"event":"log","timestamp":1510223530955,"tags":["internal","implementation","error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms","domain":{"domain":null,"_events":{},"_eventsCount":1,"members":[]},"domainThrown":true},"pid":2581}
+{"event":"log","timestamp":1510223530956,"tags":["internal","implementation","error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms","domain":{"domain":null,"_events":{},"_eventsCount":1,"members":[]},"domainThrown":true},"pid":2581}
+{"event":"log","timestamp":1510223530957,"tags":["internal","implementation","error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms","domain":{"domain":null,"_events":{},"_eventsCount":1,"members":[]},"domainThrown":true},"pid":2581}
+{"event":"log","timestamp":1510223530957,"tags":["internal","implementation","error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms","domain":{"domain":null,"_events":{},"_eventsCount":1,"members":[]},"domainThrown":true},"pid":2581}
+{"event":"log","timestamp":1510223530958,"tags":["internal","implementation","error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms","domain":{"domain":null,"_events":{},"_eventsCount":1,"members":[]},"domainThrown":true},"pid":2581}
+{"event":"log","timestamp":1510223534965,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2581}
+{"event":"log","timestamp":1510223535032,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2581}
+{"event":"log","timestamp":1510223535035,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2581}
+{"event":"log","timestamp":1510223565844,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2581}
+{"event":"log","timestamp":1510223565968,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2581}
+{"event":"log","timestamp":1510223566035,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2581}
+{"event":"log","timestamp":1510223572079,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2581}
+{"event":"log","timestamp":1510223572183,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2581}
+{"event":"log","timestamp":1510223572187,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2581}
+{"event":"log","timestamp":1510223579307,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2581}
+{"event":"log","timestamp":1510223579435,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2581}
+{"event":"log","timestamp":1510223579439,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2581}
+{"event":"log","timestamp":1510223583422,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2581}
+{"event":"log","timestamp":1510223583483,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2581}
+{"event":"log","timestamp":1510223583489,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2581}
+{"event":"log","timestamp":1510223586293,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2581}
+{"event":"log","timestamp":1510223587350,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2581}
+{"event":"log","timestamp":1510223587357,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2581}
+{"event":"log","timestamp":1510223587808,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2581}
+{"event":"log","timestamp":1510223587900,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2581}
+{"event":"log","timestamp":1510223587908,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2581}
+{"event":"log","timestamp":1510223602443,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2581}
+{"event":"log","timestamp":1510223602507,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2581}
+{"event":"log","timestamp":1510223602515,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2581}
+{"event":"log","timestamp":1510224037991,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2672}
+{"event":"log","timestamp":1510224038090,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2672}
+{"event":"log","timestamp":1510224038187,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2672}
+{"event":"log","timestamp":1510224454403,"tags":["error"],"data":{"name":"MongoError","message":"connection 1 to 127.0.0.1:27017 closed"},"pid":2777}
+{"event":"log","timestamp":1510224691034,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2817}
+{"event":"log","timestamp":1510224691100,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2817}
+{"event":"log","timestamp":1510224691230,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2817}
+{"event":"log","timestamp":1510224880616,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2869}
+{"event":"log","timestamp":1510224880664,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2869}
+{"event":"log","timestamp":1510224882335,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2869}
+{"event":"log","timestamp":1510224882362,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2869}
+{"event":"log","timestamp":1510224883338,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2869}
+{"event":"log","timestamp":1510224883378,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2869}
+{"event":"log","timestamp":1510225045341,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2912}
+{"event":"log","timestamp":1510225045454,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2912}
+{"event":"log","timestamp":1510225045465,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2912}
+{"event":"log","timestamp":1510225050453,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2912}
+{"event":"log","timestamp":1510225051137,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2912}
+{"event":"log","timestamp":1510225051139,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2912}
+{"event":"log","timestamp":1510225383445,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2949}
+{"event":"log","timestamp":1510225383561,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2949}
+{"event":"log","timestamp":1510225587784,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2949}
+{"event":"log","timestamp":1510225587794,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2949}
+{"event":"log","timestamp":1510225659155,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2949}
+{"event":"log","timestamp":1510225659296,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2949}
+{"event":"log","timestamp":1510225746855,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2949}
+{"event":"log","timestamp":1510225747030,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2949}
+{"event":"log","timestamp":1510226441051,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2949}
+{"event":"log","timestamp":1510226441185,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2949}
+{"event":"log","timestamp":1510226441186,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2949}
+{"event":"log","timestamp":1510226453628,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2949}
+{"event":"log","timestamp":1510226600141,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":3086}
+{"event":"log","timestamp":1510226600342,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":3086}
+{"event":"log","timestamp":1510226600351,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":3086}
+{"event":"log","timestamp":1510226853960,"tags":["error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms"},"pid":3115}
+{"event":"log","timestamp":1510226853961,"tags":["error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms"},"pid":3115}
+{"event":"log","timestamp":1510226853961,"tags":["error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms"},"pid":3115}
+{"event":"log","timestamp":1510226853962,"tags":["error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms"},"pid":3115}
+{"event":"log","timestamp":1510226853962,"tags":["error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms"},"pid":3115}
+{"event":"log","timestamp":1510226853962,"tags":["error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms"},"pid":3115}
+{"event":"log","timestamp":1510226853965,"tags":["internal","implementation","error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms","domain":{"domain":null,"_events":{},"_eventsCount":1,"members":[]},"domainThrown":true},"pid":3115}
+{"event":"log","timestamp":1510226853973,"tags":["internal","implementation","error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms","domain":{"domain":null,"_events":{},"_eventsCount":1,"members":[]},"domainThrown":true},"pid":3115}
+{"event":"log","timestamp":1510226853975,"tags":["internal","implementation","error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms","domain":{"domain":null,"_events":{},"_eventsCount":1,"members":[]},"domainThrown":true},"pid":3115}
+{"event":"log","timestamp":1510226853980,"tags":["internal","implementation","error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms","domain":{"domain":null,"_events":{},"_eventsCount":1,"members":[]},"domainThrown":true},"pid":3115}
+{"event":"log","timestamp":1510226853982,"tags":["internal","implementation","error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms","domain":{"domain":null,"_events":{},"_eventsCount":1,"members":[]},"domainThrown":true},"pid":3115}
+{"event":"log","timestamp":1510226853983,"tags":["internal","implementation","error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms","domain":{"domain":null,"_events":{},"_eventsCount":1,"members":[]},"domainThrown":true},"pid":3115}
+{"event":"log","timestamp":1510226855161,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":3115}
+{"event":"log","timestamp":1510226855345,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":3115}
+{"event":"log","timestamp":1510226855349,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":3115}
+{"event":"log","timestamp":1510227216063,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":3195}
+{"event":"log","timestamp":1510227216248,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":3195}
+{"event":"log","timestamp":1510227216251,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":3195}
+{"event":"log","timestamp":1510227618692,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":3231}
+{"event":"log","timestamp":1510227618993,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":3231}
+{"event":"log","timestamp":1510227619008,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":3231}
+{"event":"log","timestamp":1510227624858,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":3231}
+{"event":"log","timestamp":1510227691556,"tags":["error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms"},"pid":3271}
+{"event":"log","timestamp":1510307989317,"tags":["error"],"data":{"name":"MongoError","message":"connection 2 to 127.0.0.1:27017 closed"},"pid":1867}
+{"event":"log","timestamp":1510307993635,"tags":["error"],"data":{"name":"MongoError","message":"write EPIPE"},"pid":1867}
+{"event":"log","timestamp":1510308446842,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1898}
+{"event":"log","timestamp":1510308447069,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1898}
+{"event":"log","timestamp":1510309159972,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1951}
+{"event":"log","timestamp":1510803343643,"tags":["error"],"data":{"name":"MongoError","message":"unknown operator: $or","ok":0,"errmsg":"unknown operator: $or","code":2,"codeName":"BadValue"},"pid":1332}
+{"event":"log","timestamp":1510804063308,"tags":["error"],"data":{"name":"MongoError","message":"unknown operator: $or","ok":0,"errmsg":"unknown operator: $or","code":2,"codeName":"BadValue"},"pid":1405}
+{"event":"log","timestamp":1510804063311,"tags":["internal","implementation","error"],"data":{"name":"MongoError","message":"unknown operator: $or","ok":0,"errmsg":"unknown operator: $or","code":2,"codeName":"BadValue","domain":{"domain":null,"_events":{},"_eventsCount":1,"members":[]},"domainThrown":true},"pid":1405}
+{"event":"log","timestamp":1510804093417,"tags":["error"],"data":{"name":"MongoError","message":"unknown operator: $or","ok":0,"errmsg":"unknown operator: $or","code":2,"codeName":"BadValue"},"pid":1433}
+{"event":"log","timestamp":1510804132430,"tags":["error"],"data":{"name":"MongoError","message":"unknown operator: $or","ok":0,"errmsg":"unknown operator: $or","code":2,"codeName":"BadValue"},"pid":1438}
+{"event":"log","timestamp":1510804362100,"tags":["error"],"data":{"name":"MongoError","message":"unknown operator: $or","ok":0,"errmsg":"unknown operator: $or","code":2,"codeName":"BadValue"},"pid":1456}
+{"event":"log","timestamp":1510804386029,"tags":["error"],"data":{"name":"MongoError","message":"unknown operator: $or","ok":0,"errmsg":"unknown operator: $or","code":2,"codeName":"BadValue"},"pid":1469}
+{"event":"log","timestamp":1513336938004,"tags":["connection","client","error"],"data":{"code":"EPIPE","errno":"EPIPE","syscall":"write"},"pid":2511}
+{"event":"log","timestamp":1513336942378,"tags":["connection","client","error"],"data":{"code":"EPIPE","errno":"EPIPE","syscall":"write"},"pid":2511}
+{"event":"log","timestamp":1513341525231,"tags":["error"],"data":{},"pid":2630}
+{"event":"log","timestamp":1513397010759,"tags":["error"],"data":{},"pid":1855}
+{"event":"log","timestamp":1513397016852,"tags":["error"],"data":{},"pid":1855}
+{"event":"log","timestamp":1513397028888,"tags":["error"],"data":{},"pid":1855}
+{"event":"log","timestamp":1513405686633,"tags":["error"],"data":{},"pid":2169}
+{"event":"log","timestamp":1513600832962,"tags":["error"],"data":{},"pid":2654}
+{"event":"log","timestamp":1513602753533,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":2775}
+{"event":"log","timestamp":1513602753536,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":2775}
+{"event":"log","timestamp":1513602753537,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":2775}
+{"event":"log","timestamp":1513649279075,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":787}
+{"event":"log","timestamp":1513676677287,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1806}
+{"event":"log","timestamp":1513676677440,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1806}
+{"event":"log","timestamp":1513676682977,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1806}
+{"event":"log","timestamp":1513676686141,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1806}
+{"event":"log","timestamp":1513751239837,"tags":["error"],"data":{},"pid":782}
+{"event":"log","timestamp":1513751244864,"tags":["error"],"data":{},"pid":782}
+{"event":"log","timestamp":1513751248476,"tags":["error"],"data":{},"pid":782}
+{"event":"log","timestamp":1513751259680,"tags":["error"],"data":{},"pid":782}
+{"event":"log","timestamp":1513753959613,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":1535}
+{"event":"log","timestamp":1513753959614,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":1535}
+{"event":"log","timestamp":1513757170965,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":1535}
+{"event":"log","timestamp":1513769858595,"tags":["error"],"data":{},"pid":2095}
+{"event":"log","timestamp":1513829729141,"tags":["error"],"data":{},"pid":549}
+{"event":"log","timestamp":1513849519296,"tags":["error"],"data":{},"pid":1799}
+{"event":"log","timestamp":1513867159999,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":3047}
+{"event":"log","timestamp":1513867203119,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_CB_body"},"pid":3047}
+{"event":"log","timestamp":1513867222765,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":3047}
+{"event":"log","timestamp":1513867251011,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_CB_body"},"pid":3047}
+{"event":"log","timestamp":1513867451094,"tags":["error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms"},"pid":3073}
+{"event":"log","timestamp":1513868012353,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":3087}
+{"event":"log","timestamp":1513868016558,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":3087}
+{"event":"log","timestamp":1513868852924,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":3098}
+{"event":"log","timestamp":1513869145870,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":3154}
+{"event":"log","timestamp":1513913388280,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":571}
+{"event":"log","timestamp":1513916040856,"tags":["error"],"data":{},"pid":1310}
+{"event":"log","timestamp":1514003054732,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1199}
+{"event":"log","timestamp":1514003065304,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1199}
+{"event":"log","timestamp":1514003066427,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1199}
+{"event":"log","timestamp":1514003078752,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1199}
+{"event":"log","timestamp":1514003080506,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1199}
+{"event":"log","timestamp":1514003090697,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1199}
+{"event":"log","timestamp":1514003092574,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1199}
+{"event":"log","timestamp":1514003113896,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1199}
+{"event":"log","timestamp":1514003124017,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1199}
+{"event":"log","timestamp":1514007116645,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1516}
+{"event":"log","timestamp":1514007118473,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1516}
+{"event":"log","timestamp":1514007124234,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1516}
+{"event":"log","timestamp":1514007134156,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1516}
+{"event":"log","timestamp":1514007143365,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1516}
+{"event":"log","timestamp":1514007144337,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1516}
+{"event":"log","timestamp":1514007160600,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1516}
+{"event":"log","timestamp":1514007392671,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1538}
+{"event":"log","timestamp":1514007394914,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1538}
+{"event":"log","timestamp":1514007414308,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1538}
+{"event":"log","timestamp":1514019983192,"tags":["error"],"data":{},"pid":2216}
+{"event":"log","timestamp":1514019989710,"tags":["error"],"data":{},"pid":2216}
+{"event":"log","timestamp":1514256171565,"tags":["error"],"data":{"name":"MongoError","message":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}","driver":true,"index":0,"code":9,"errmsg":"'$set' is empty. You must specify a field like so: {$set: {<field>: ...}}"},"pid":1013}
+{"event":"log","timestamp":1514271469523,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1604}
+{"event":"log","timestamp":1514271475667,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1604}
+{"event":"log","timestamp":1514288766942,"tags":["error"],"data":{},"pid":2319}
+{"event":"log","timestamp":1514341930032,"tags":["error"],"data":{},"pid":2712}
+{"event":"log","timestamp":1514349707521,"tags":["error"],"data":{"name":"MongoError","message":"A pipeline stage specification object must contain exactly one field.","ok":0,"errmsg":"A pipeline stage specification object must contain exactly one field.","code":16435},"pid":3149}
+{"event":"log","timestamp":1514354998767,"tags":["error"],"data":{"name":"MongoError","message":"A pipeline stage specification object must contain exactly one field.","ok":0,"errmsg":"A pipeline stage specification object must contain exactly one field.","code":16435},"pid":3311}
+{"event":"log","timestamp":1514368262567,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":3884}
+{"event":"log","timestamp":1514373514126,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4058}
+{"event":"log","timestamp":1514428767624,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":813}
+{"event":"log","timestamp":1514428767648,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":813}
+{"event":"log","timestamp":1514428786649,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":813}
+{"event":"log","timestamp":1514428792124,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":813}
+{"event":"log","timestamp":1514462247495,"tags":["error"],"data":{"name":"MongoError","message":"24: Too many open files","driver":true,"index":0,"code":8,"errmsg":"24: Too many open files"},"pid":2052}
+{"event":"log","timestamp":1514475269412,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2770}
+{"event":"log","timestamp":1514475269553,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2770}
+{"event":"log","timestamp":1514475280347,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2770}
+{"event":"log","timestamp":1514475280472,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2770}
+{"event":"log","timestamp":1514522416112,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1116}
+{"event":"log","timestamp":1514522416152,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1116}
+{"event":"log","timestamp":1514522423764,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1116}
+{"event":"log","timestamp":1514522424099,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1116}
+{"event":"log","timestamp":1514522424944,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1116}
+{"event":"log","timestamp":1514882450963,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1747}
+{"event":"log","timestamp":1514882454102,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1747}
+{"event":"log","timestamp":1514882454212,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1747}
+{"event":"log","timestamp":1514882456742,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1747}
+{"event":"log","timestamp":1514882457208,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_CB_body"},"pid":1747}
+{"event":"log","timestamp":1514882459500,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1747}
+{"event":"log","timestamp":1514882459542,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1747}
+{"event":"log","timestamp":1514886603353,"tags":["error"],"data":{"name":"MongoError","message":"write EPIPE"},"pid":1915}
+{"event":"log","timestamp":1514886604349,"tags":["error"],"data":{"name":"MongoError","message":"connection 2 to 127.0.0.1:27017 closed"},"pid":1915}
+{"event":"log","timestamp":1514890944896,"tags":["error"],"data":{},"pid":1932}
+{"event":"log","timestamp":1514894613436,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2213}
+{"event":"log","timestamp":1514894613455,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2213}
+{"event":"log","timestamp":1514894613457,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":2213}
+{"event":"log","timestamp":1514948267343,"tags":["error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms"},"pid":859}
+{"event":"log","timestamp":1514950200006,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1017}
+{"event":"log","timestamp":1514958855620,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1148}
+{"event":"log","timestamp":1514958859579,"tags":["connection","client","error"],"data":{"bytesParsed":0,"code":"HPE_CB_body"},"pid":1148}
+{"event":"log","timestamp":1514958860249,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1148}
+{"event":"log","timestamp":1514959861738,"tags":["error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms"},"pid":1341}
+{"event":"log","timestamp":1514960400004,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1377}
+{"event":"log","timestamp":1514962547257,"tags":["error"],"data":{"name":"MongoError","message":"failed to reconnect after 30 attempts with interval 1000 ms"},"pid":1506}
+{"event":"log","timestamp":1515074585361,"tags":["error"],"data":{"name":"MongoError","message":"read ECONNRESET"},"pid":3666}
+{"event":"log","timestamp":1515133800004,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":979}
+{"event":"log","timestamp":1515134100014,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":1363}
+{"event":"log","timestamp":1515404509217,"tags":["connection","client","error"],"data":{"code":"EPIPE","errno":"EPIPE","syscall":"write"},"pid":2017}
+{"event":"log","timestamp":1515404985347,"tags":["connection","client","error"],"data":{"code":"EPIPE","errno":"EPIPE","syscall":"write"},"pid":2017}
+{"event":"log","timestamp":1515406553005,"tags":["error"],"data":{},"pid":2017}
+{"event":"log","timestamp":1515652761314,"tags":["error"],"data":{},"pid":1387}
+{"event":"log","timestamp":1515744407945,"tags":["error"],"data":{},"pid":4236}
+{"event":"log","timestamp":1515744552977,"tags":["error"],"data":{},"pid":4236}
+{"event":"log","timestamp":1515750303998,"tags":["error"],"data":{},"pid":4608}
+{"event":"log","timestamp":1515756537783,"tags":["error"],"data":{"name":"MongoError","message":"Topology was destroyed"},"pid":4727}
+{"event":"log","timestamp":1516066583858,"tags":["error"],"data":{},"pid":677}
+{"event":"log","timestamp":1516070583263,"tags":["connection","client","error"],"data":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"pid":972}
+{"event":"log","timestamp":1517810173592,"tags":["error"],"data":{},"pid":1887}
+{"event":"log","timestamp":1519884007523,"tags":["error"],"data":{"code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"0.0.0.0","port":3000},"pid":1027}
+{"event":"log","timestamp":1519884588578,"tags":["error"],"data":{"code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"0.0.0.0","port":3000},"pid":1111}
+{"event":"log","timestamp":1519884838640,"tags":["error"],"data":{"code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"0.0.0.0","port":3000},"pid":1178}
+{"event":"log","timestamp":1519885600889,"tags":["error"],"data":{"code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"0.0.0.0","port":3000},"pid":1219}
+{"event":"log","timestamp":1519885695960,"tags":["error"],"data":{"code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"0.0.0.0","port":3000},"pid":1228}
+{"event":"log","timestamp":1519885952909,"tags":["error"],"data":{"code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"0.0.0.0","port":3000},"pid":1251}
+{"event":"log","timestamp":1519886359397,"tags":["error"],"data":{"code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"0.0.0.0","port":3000},"pid":1271}
+{"event":"log","timestamp":1519886433110,"tags":["error"],"data":{"code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"0.0.0.0","port":3000},"pid":1281}
+{"event":"log","timestamp":1519899060746,"tags":["connection","client","error"],"data":{"code":"ETIMEDOUT","errno":"ETIMEDOUT","syscall":"read"},"pid":1529}
+{"event":"log","timestamp":1519899062703,"tags":["connection","client","error"],"data":{"code":"ETIMEDOUT","errno":"ETIMEDOUT","syscall":"read"},"pid":1529}
+{"event":"log","timestamp":1519899084044,"tags":["connection","client","error"],"data":{"code":"ETIMEDOUT","errno":"ETIMEDOUT","syscall":"read"},"pid":1529}
